@@ -1,5 +1,4 @@
-🚀 Complete Marketplace Built with Next.js 14
-
+Complete Marketplace Built with Next.js 14
 💻 Beautiful landing page & product pages
 
 🎨 Custom artwork included
